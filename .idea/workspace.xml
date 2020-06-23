@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a418a611-55e3-402f-b308-5b51a5a4ee53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/github/bonigarcia/wdm/test/ChromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/github/bonigarcia/wdm/test/ChromeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1djiR3auPsmYq5rkOAcbK4bbqCB" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15234375" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.ChromeTest.googleTranslate">
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <shortenClasspath name="MANIFEST" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdrivermanager-examples" />
+      <shortenClasspath name="MANIFEST" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="io.github.bonigarcia.wdm.test" />
+      <option name="MAIN_CLASS_NAME" value="io.github.bonigarcia.wdm.test.ChromeTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -noverify -XX:TieredStopAtLevel=1" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChromeTest.googleTranslate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdrivermanager-examples" />
+      <shortenClasspath name="MANIFEST" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="io.github.bonigarcia.wdm.test" />
+      <option name="MAIN_CLASS_NAME" value="io.github.bonigarcia.wdm.test.ChromeTest" />
+      <option name="METHOD_NAME" value="googleTranslate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -noverify -XX:TieredStopAtLevel=1" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <shortenClasspath name="MANIFEST" />
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -noverify -XX:TieredStopAtLevel=1" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" value="DEVL" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChromeTest.googleTranslate" />
+        <item itemvalue="JUnit.ChromeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="539" y="386" key="#xdebugger.evaluate" timestamp="1592946556295">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="539" y="386" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1592946556295" />
+    <state width="1410" height="352" key="GridCell.Tab.0.bottom" timestamp="1592946572257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1410" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592946572257" />
+    <state width="1410" height="352" key="GridCell.Tab.0.center" timestamp="1592946572257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1410" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592946572257" />
+    <state width="1410" height="352" key="GridCell.Tab.0.left" timestamp="1592946572257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1410" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592946572257" />
+    <state width="1410" height="352" key="GridCell.Tab.0.right" timestamp="1592946572257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1410" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592946572257" />
+    <state width="1410" height="352" key="GridCell.Tab.1.bottom" timestamp="1592946572257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1410" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592946572257" />
+    <state width="1410" height="352" key="GridCell.Tab.1.center" timestamp="1592946572257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1410" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592946572257" />
+    <state width="1410" height="352" key="GridCell.Tab.1.left" timestamp="1592946572257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1410" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592946572257" />
+    <state width="1410" height="352" key="GridCell.Tab.1.right" timestamp="1592946572257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1410" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592946572257" />
+    <state width="968" height="533" key="XDebugger.FullValuePopup" timestamp="1592946049283">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="968" height="533" key="XDebugger.FullValuePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1592946049283" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/io/github/bonigarcia/wdm/test/ChromeTest.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
